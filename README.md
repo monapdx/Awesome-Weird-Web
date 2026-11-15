@@ -128,3 +128,19 @@
 
 ## WTF?
 
+- [Hacker Typer](https://hackertyper.net/) - Type nonsense and watch it turn into convincing-looking hacker code.
+- [Superbad](https://superbad.com/) - A strange, nonlinear world of web art and unexpected navigation.
+- [Objection.lol](https://objection.lol/) - Stage your own absurd courtroom exchanges.
+- [Always Judge a Book by Its Cover](https://alwaysjudgeabookbyitscover.com/) - A collection whose premise is exactly what the title says.
+- [Ambient Chaos](https://neal.fun/ambient-chaos/) - An ambient sound mixer with a more chaotic sensibility.
+- [FoodNeverComes](https://foodnevercomes.com/) - Fake food delivery: place an order for the anticipation, without the actual meal.
+- [The Uncomfortable](https://www.theuncomfortable.com/) - A collection of objects deliberately designed to be inconvenient.
+- [Earth Reviews](https://neal.fun/earth-reviews/) - Treat the things on Earth as if they were products to review.
+- [Ass Auction](https://ass.auction/) - An advertising auction offering an unusually personal placement.
+- [Let’s Settle This](https://neal.fun/lets-settle-this/) - An interactive collection of arguments begging for a verdict.
+- [Neal.fun](https://neal.fun/) - A collection of unusual interactive toys and internet experiments.
+- [Google Feud](https://googlefeud.com/) - Guess the strange things people put into search engines.
+- [Industry-Specific Lorem Ipsum](https://www.boom-online.co.uk/lorem-ipsum/) - Placeholder text with an oddly specific professional identity.
+- [Breaking Bad Element Finder](https://elementfinder.info/) - Make names and phrases out of periodic-table symbols.
+- [Hacker News or Satire?](https://www.hackernewssatire.com/) - Try to distinguish tech news from parody.
+- [VOLE.wtf](https://vole.wtf/) - A collection of oddities working toward a dafter internet.
