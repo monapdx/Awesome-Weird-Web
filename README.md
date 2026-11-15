@@ -13,9 +13,6 @@
 ## Blogs & Magazines
 
 
-## Indie
-
-
 ## Experimental
 
 
