@@ -65,6 +65,7 @@
 - [Let’s Get Creative](https://letsgetcreative.today/) - A curated collection of free, browser-based creativity tools.
 - [Startpage Emporium](https://startpages.github.io/) - A searchable gallery of custom browser start pages.
 - [The Old Net](https://theoldnet.com/) - A project for browsing archived websites on vintage and modern computers.
+- [LiveCanvas](https://livecanvas.lvl99.com/) - Draw with friends in real time on a shared browser canvas.
 
 ## Blogs & Magazines
 
@@ -127,6 +128,7 @@
 - [Diagram Website](https://diagram.website/) - Explore a collection of websites through an interactive map, or submit a link of your own.
 - [PoetiCal](https://poetical.day/) - A collaborative publication that uses your calendar as its medium.
 - [Together Online](https://www.together-online.net/) - Playful experiments designed for two people that explore how interfaces shape being together online.
+- [localhost:5000](https://localhost.starstar.website/) - An Are.na-powered collection of links spanning personal sites, design, and web ephemera.
 
 ## Systems
 
@@ -152,6 +154,7 @@
 - [Utext](https://gwern.net/utext) - A proposed document format that uses Unicode to create rich typography in plain UTF-8 text.
 - [Run Your Own Social](https://runyourown.social/) - Darius Kazemi’s guide to hosting and governing a small social network for friends.
 - [Scrapism](https://scrapism.lav.io/) - Sam Lavigne’s methodology for using web scraping as an artistic and critical practice.
+- [RetroShare](https://retroshare.cc/) - A decentralized friend-to-friend network for chat, forums, and file sharing.
 
 
 ## WTF?
