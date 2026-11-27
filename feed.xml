@@ -6,6 +6,14 @@
     <description>New links from Awesome Weird Web.</description>
     <atom:link href="https://raw.githubusercontent.com/monapdx/Awesome-Weird-Web/main/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>StagePeek</title>
+      <link>https://stagepeek.live/</link>
+      <guid isPermaLink="true">https://stagepeek.live/</guid>
+      <description>Interactive 2D seating maps and 3D concert stage-view simulator with 1x–10x camera zoom across 201 venues.</description>
+      <category>Tools</category>
+      <pubDate>Fri, 27 Nov 2026 22:01:08 GMT</pubDate>
+    </item>
+    <item>
       <title>LiveCanvas</title>
       <link>https://livecanvas.lvl99.com/</link>
       <guid isPermaLink="true">https://livecanvas.lvl99.com/</guid>
