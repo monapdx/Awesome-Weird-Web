@@ -52,6 +52,7 @@
 - [Domino](https://kool.tools/domino/#5,-7) - A tool for collaging thoughts.
 - [Regex Vis](https://regex-vis.com/) - Visualize the structure of regular expressions.
 - [Electric Zine Maker](https://alienmelon.itch.io/electric-zine-maker) - A playful, eccentric toolkit for making zines.
+- [StagePeek](https://stagepeek.live/) - Interactive 2D seating maps and 3D concert stage-view simulator with 1x–10x camera zoom across 201 venues.
 - [Zeenster](https://zeenster.com/) - A browser-based zine maker.
 - [Word Synth](https://creatability.withgoogle.com/word-synth/) - A musical experiment built around words.
 - [HOTGLUE](https://hotglue.me/) - A visual tool for expressive web publication and digital samizdat.
