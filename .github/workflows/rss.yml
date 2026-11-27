@@ -1,0 +1,33 @@
+name: Update new links RSS feed
+
+on:
+  push:
+    branches: [main]
+    paths: [README.md]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: awesome-weird-web-rss
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+        with:
+          ref: main
+      - name: Publish new links
+        run: |
+          python3 scripts/update_rss.py
+          git add feed.xml scripts/rss-seen-urls.json
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Update new links RSS feed'
+          git push origin HEAD:main
