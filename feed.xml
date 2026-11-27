@@ -5,5 +5,29 @@
     <link>https://github.com/monapdx/Awesome-Weird-Web</link>
     <description>New links from Awesome Weird Web.</description>
     <atom:link href="https://raw.githubusercontent.com/monapdx/Awesome-Weird-Web/main/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LiveCanvas</title>
+      <link>https://livecanvas.lvl99.com/</link>
+      <guid isPermaLink="true">https://livecanvas.lvl99.com/</guid>
+      <description>Draw with friends in real time on a shared browser canvas.</description>
+      <category>Tools</category>
+      <pubDate>Fri, 27 Nov 2026 09:48:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>localhost:5000</title>
+      <link>https://localhost.starstar.website/</link>
+      <guid isPermaLink="true">https://localhost.starstar.website/</guid>
+      <description>An Are.na-powered collection of links spanning personal sites, design, and web ephemera.</description>
+      <category>Experimental</category>
+      <pubDate>Fri, 27 Nov 2026 09:48:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>RetroShare</title>
+      <link>https://retroshare.cc/</link>
+      <guid isPermaLink="true">https://retroshare.cc/</guid>
+      <description>A decentralized friend-to-friend network for chat, forums, and file sharing.</description>
+      <category>Systems</category>
+      <pubDate>Fri, 27 Nov 2026 09:48:46 GMT</pubDate>
+    </item>
   </channel>
 </rss>
