@@ -26,6 +26,8 @@
 - [Decro](https://www.decro.net/) - Explore creative groups on a zoomable map and share work in their rooms.
 - [HTML Energy](https://html.energy/) - A community celebrating hand-written HTML through HTML Day meetups, freewrites, and a podcast.
 - [Values Based Software](https://valuesbased.software/) - A gathering and talk series about software as a form of self-expression.
+- [The Yesterweb](https://yesterweb.org/) - An archive of a web revival community, including its manifesto, zine, and account of how the community organized.
+- [threads.garden](https://threads.garden/) - Start a conversation with a link and build a thread out of replies from around the web.
 
 ## Tools
 
@@ -58,6 +60,9 @@
 - [ooh.directory](https://ooh.directory/) - A topic-organized directory of blogs with RSS or Atom feeds.
 - [smallweb](https://smallweb.cc/) - A hand-curated directory of independent websites and personal homepages.
 - [Ye Olde Blogroll](https://blogroll.org/) - A human-curated directory of personal and independent blogs, browsable by topic.
+- [Let’s Get Creative](https://letsgetcreative.today/) - A curated collection of free, browser-based creativity tools.
+- [Startpage Emporium](https://startpages.github.io/) - A searchable gallery of custom browser start pages.
+- [The Old Net](https://theoldnet.com/) - A project for browsing archived websites on vintage and modern computers.
 
 ## Blogs & Magazines
 
@@ -78,6 +83,11 @@
 - [The Pudding](https://pudding.cool/) - Visual essays that use interaction and data to explore culture.
 - [ClickHole: Napoleon Was a Perfect Cube](https://clickhole.com/incredible-discovery-historians-now-believe-napoleon-was-a-perfect-cube/) - A representative bookmark from an exceptionally absurd satire publication.
 - [Handmade Web Library](https://handmade-web.net/library.html) - A reading list of essays on the handmade web, internet culture, and digital publishing.
+- [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history) - Maggie Appleton traces the history of digital gardens and describes six patterns for publishing in public.
+- [Cyberfeminism Index](https://cyberfeminismindex.com/) - Mindy Seu’s collaborative archive of cyberfeminist art, activism, and writing.
+- [Deep Dark Fears](https://deep-dark-fears.tumblr.com/) - Fran Krause turns readers’ unsettling, oddly specific fears into comics.
+- [The Cheap Web](https://potato.cheap/) - A solarpunk web design manifesto with resources for exploring and building a lightweight web.
+- [The Whimsical Web](https://whimsical.club/1/) - An annotated showcase of playful web design, from pixel-art worlds to animated personal sites.
 
 
 ## Experimental
@@ -114,6 +124,7 @@
 - [Alt Text as Poetry](https://alt-text-as-poetry.net/) - An art and accessibility project that explores creative image descriptions through a workbook, workshops, and exhibitions.
 - [Diagram Website](https://diagram.website/) - Explore a collection of websites through an interactive map, or submit a link of your own.
 - [PoetiCal](https://poetical.day/) - A collaborative publication that uses your calendar as its medium.
+- [Together Online](https://www.together-online.net/) - Playful experiments designed for two people that explore how interfaces shape being together online.
 
 ## Systems
 
@@ -137,6 +148,8 @@
 - [Untools](https://untools.co/) - Thinking frameworks for making decisions, solving problems, and understanding systems.
 - [Coem](https://coem-lang.org/) - A poetic programming language that uses ambiguity, wordplay, and regular expressions as part of its syntax.
 - [Utext](https://gwern.net/utext) - A proposed document format that uses Unicode to create rich typography in plain UTF-8 text.
+- [Run Your Own Social](https://runyourown.social/) - Darius Kazemi’s guide to hosting and governing a small social network for friends.
+- [Scrapism](https://scrapism.lav.io/) - Sam Lavigne’s methodology for using web scraping as an artistic and critical practice.
 
 
 ## WTF?
