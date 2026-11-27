@@ -23,6 +23,9 @@
 - [Oozing Goo](https://oozinggoo.ning.com/) - A remarkably specific community for lava-lamp enthusiasts.
 - [Neocities](https://neocities.org/) - Personal website hosting with a community of independent web makers.
 - [Human Brain Cloud](https://www.humanbraincloud.com/) - A massively multiplayer word-association experiment.
+- [Decro](https://www.decro.net/) - Explore creative groups on a zoomable map and share work in their rooms.
+- [HTML Energy](https://html.energy/) - A community celebrating hand-written HTML through HTML Day meetups, freewrites, and a podcast.
+- [Values Based Software](https://valuesbased.software/) - A gathering and talk series about software as a form of self-expression.
 
 ## Tools
 
@@ -51,6 +54,10 @@
 - [Superglue](https://www.superglue.it/) - Make and host your own webpages at home.
 - [Straw.Page](https://straw.page/make?themes=) - A visual editor for expressive personal pages.
 - [PhotoMosh](https://photomosh.com/app/) - A tool for distorting, glitching, and animating images.
+- [nownownow.com](https://nownownow.com/) - Find personal sites whose /now pages describe what their authors are doing these days.
+- [ooh.directory](https://ooh.directory/) - A topic-organized directory of blogs with RSS or Atom feeds.
+- [smallweb](https://smallweb.cc/) - A hand-curated directory of independent websites and personal homepages.
+- [Ye Olde Blogroll](https://blogroll.org/) - A human-curated directory of personal and independent blogs, browsable by topic.
 
 ## Blogs & Magazines
 
@@ -70,6 +77,7 @@
 - [The Public Domain Review](https://publicdomainreview.org/) - An online journal of unusual and fascinating public-domain material.
 - [The Pudding](https://pudding.cool/) - Visual essays that use interaction and data to explore culture.
 - [ClickHole: Napoleon Was a Perfect Cube](https://clickhole.com/incredible-discovery-historians-now-believe-napoleon-was-a-perfect-cube/) - A representative bookmark from an exceptionally absurd satire publication.
+- [Handmade Web Library](https://handmade-web.net/library.html) - A reading list of essays on the handmade web, internet culture, and digital publishing.
 
 
 ## Experimental
@@ -103,6 +111,9 @@
 - [Bad News](https://www.getbadnews.com/en/intro) - Learn how disinformation works by playing its producer.
 - [Style Stage](https://stylestage.dev/) - A shared HTML foundation transformed through radically different CSS.
 - [Pitchfork’s Best of the Year Over the Decade](https://roadtolarissa.com/pitchfork/) - An interactive exploration of music criticism and rankings.
+- [Alt Text as Poetry](https://alt-text-as-poetry.net/) - An art and accessibility project that explores creative image descriptions through a workbook, workshops, and exhibitions.
+- [Diagram Website](https://diagram.website/) - Explore a collection of websites through an interactive map, or submit a link of your own.
+- [PoetiCal](https://poetical.day/) - A collaborative publication that uses your calendar as its medium.
 
 ## Systems
 
@@ -124,6 +135,8 @@
 - [512KB Club](https://512kb.club/) - A website showcase organized around a strict page-size constraint.
 - [A Webring Kit](https://mxb.dev/blog/webring-kit/) - A practical approach to connecting independent sites through a webring.
 - [Untools](https://untools.co/) - Thinking frameworks for making decisions, solving problems, and understanding systems.
+- [Coem](https://coem-lang.org/) - A poetic programming language that uses ambiguity, wordplay, and regular expressions as part of its syntax.
+- [Utext](https://gwern.net/utext) - A proposed document format that uses Unicode to create rich typography in plain UTF-8 text.
 
 
 ## WTF?
