@@ -6,6 +6,110 @@
     <description>New links from Awesome Weird Web.</description>
     <atom:link href="https://raw.githubusercontent.com/monapdx/Awesome-Weird-Web/main/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Fraidycat</title>
+      <link>https://fraidyc.at/</link>
+      <guid isPermaLink="true">https://fraidyc.at/</guid>
+      <description>Follow people across blogs, social sites, and other corners of the web in one place.</description>
+      <category>Tools</category>
+      <pubDate>Sat, 28 Nov 2026 04:29:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Videogrep</title>
+      <link>https://lav.io/projects/videogrep/</link>
+      <guid isPermaLink="true">https://lav.io/projects/videogrep/</guid>
+      <description>Make supercuts by searching video transcripts and stitching matching clips together.</description>
+      <category>Tools</category>
+      <pubDate>Sat, 28 Nov 2026 04:29:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tangle</title>
+      <link>https://worrydream.com/Tangle/</link>
+      <guid isPermaLink="true">https://worrydream.com/Tangle/</guid>
+      <description>A JavaScript library for writing explanations with values readers can change directly in the text.</description>
+      <category>Tools</category>
+      <pubDate>Sat, 28 Nov 2026 04:29:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nutshell</title>
+      <link>https://ncase.me/nutshell/</link>
+      <guid isPermaLink="true">https://ncase.me/nutshell/</guid>
+      <description>Add inline explanations that readers can expand without leaving the page.</description>
+      <category>Tools</category>
+      <pubDate>Sat, 28 Nov 2026 04:29:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>TextDraft</title>
+      <link>https://thehtml.review/03/weaving-web/</link>
+      <guid isPermaLink="true">https://thehtml.review/03/weaving-web/</guid>
+      <description>An HTML Review piece that turns typed words into weaving patterns.</description>
+      <category>Blogs &amp; Magazines</category>
+      <pubDate>Sat, 28 Nov 2026 04:29:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Establishing secure connection...</title>
+      <link>https://thehtml.review/03/establishing-secure-connection/</link>
+      <guid isPermaLink="true">https://thehtml.review/03/establishing-secure-connection/</guid>
+      <description>Generate a poem from fragments of Craigslist missed connections.</description>
+      <category>Blogs &amp; Magazines</category>
+      <pubDate>Sat, 28 Nov 2026 04:29:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>falseFriends.cpp</title>
+      <link>https://thehtml.review/03/false-friends/</link>
+      <guid isPermaLink="true">https://thehtml.review/03/false-friends/</guid>
+      <description>A branching essay that plays with deceptively similar English and Italian words.</description>
+      <category>Blogs &amp; Magazines</category>
+      <pubDate>Sat, 28 Nov 2026 04:29:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>It is as if you were doing work</title>
+      <link>https://pippinbarr.com/itisasifyouweredoingwork/</link>
+      <guid isPermaLink="true">https://pippinbarr.com/itisasifyouweredoingwork/</guid>
+      <description>A game that simulates office work through a parade of mundane computer tasks.</description>
+      <category>Experimental</category>
+      <pubDate>Sat, 28 Nov 2026 04:29:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Widthipedia</title>
+      <link>https://vole.wtf/widthipedia/</link>
+      <guid isPermaLink="true">https://vole.wtf/widthipedia/</guid>
+      <description>Resize your browser to reveal a different Wikipedia article.</description>
+      <category>Experimental</category>
+      <pubDate>Sat, 28 Nov 2026 04:29:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>One Million Checkboxes</title>
+      <link>https://onemillioncheckboxes.com/</link>
+      <guid isPermaLink="true">https://onemillioncheckboxes.com/</guid>
+      <description>A million shared checkboxes that anyone can check or uncheck in real time.</description>
+      <category>Experimental</category>
+      <pubDate>Sat, 28 Nov 2026 04:29:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>2023 r/place Atlas</title>
+      <link>https://2023.place-atlas.stefanocoding.me/#//0/0/1</link>
+      <guid isPermaLink="true">https://2023.place-atlas.stefanocoding.me/#//0/0/1</guid>
+      <description>Explore an annotated map of the artwork on Reddit’s 2023 collaborative pixel canvas.</description>
+      <category>Experimental</category>
+      <pubDate>Sat, 28 Nov 2026 04:29:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>FakeUpdate.net</title>
+      <link>https://fakeupdate.net/</link>
+      <guid isPermaLink="true">https://fakeupdate.net/</guid>
+      <description>Put a fake operating system update screen in your browser.</description>
+      <category>WTF?</category>
+      <pubDate>Sat, 28 Nov 2026 04:29:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zoom Escaper</title>
+      <link>https://lav.io/projects/zoom-escaper/</link>
+      <guid isPermaLink="true">https://lav.io/projects/zoom-escaper/</guid>
+      <description>Sabotage your own call audio with echoes, barking, and other excuses to leave.</description>
+      <category>WTF?</category>
+      <pubDate>Sat, 28 Nov 2026 04:29:31 GMT</pubDate>
+    </item>
+    <item>
       <title>StagePeek</title>
       <link>https://stagepeek.live/</link>
       <guid isPermaLink="true">https://stagepeek.live/</guid>
