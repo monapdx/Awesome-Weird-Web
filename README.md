@@ -65,6 +65,10 @@
 - [Startpage Emporium](https://startpages.github.io/) - A searchable gallery of custom browser start pages.
 - [The Old Net](https://theoldnet.com/) - A project for browsing archived websites on vintage and modern computers.
 - [LiveCanvas](https://livecanvas.lvl99.com/) - Draw with friends in real time on a shared browser canvas.
+- [Fraidycat](https://fraidyc.at/) - Follow people across blogs, social sites, and other corners of the web in one place.
+- [Videogrep](https://lav.io/projects/videogrep/) - Make supercuts by searching video transcripts and stitching matching clips together.
+- [Tangle](https://worrydream.com/Tangle/) - A JavaScript library for writing explanations with values readers can change directly in the text.
+- [Nutshell](https://ncase.me/nutshell/) - Add inline explanations that readers can expand without leaving the page.
 
 ## Blogs & Magazines
 
@@ -90,6 +94,9 @@
 - [Deep Dark Fears](https://deep-dark-fears.tumblr.com/) - Fran Krause turns readers’ unsettling, oddly specific fears into comics.
 - [The Cheap Web](https://potato.cheap/) - A solarpunk web design manifesto with resources for exploring and building a lightweight web.
 - [The Whimsical Web](https://whimsical.club/1/) - An annotated showcase of playful web design, from pixel-art worlds to animated personal sites.
+- [TextDraft](https://thehtml.review/03/weaving-web/) - An HTML Review piece that turns typed words into weaving patterns.
+- [Establishing secure connection...](https://thehtml.review/03/establishing-secure-connection/) - Generate a poem from fragments of Craigslist missed connections.
+- [falseFriends.cpp](https://thehtml.review/03/false-friends/) - A branching essay that plays with deceptively similar English and Italian words.
 
 
 ## Experimental
@@ -128,6 +135,10 @@
 - [PoetiCal](https://poetical.day/) - A collaborative publication that uses your calendar as its medium.
 - [Together Online](https://www.together-online.net/) - Playful experiments designed for two people that explore how interfaces shape being together online.
 - [localhost:5000](https://localhost.starstar.website/) - An Are.na-powered collection of links spanning personal sites, design, and web ephemera.
+- [It is as if you were doing work](https://pippinbarr.com/itisasifyouweredoingwork/) - A game that simulates office work through a parade of mundane computer tasks.
+- [Widthipedia](https://vole.wtf/widthipedia/) - Resize your browser to reveal a different Wikipedia article.
+- [One Million Checkboxes](https://onemillioncheckboxes.com/) - A million shared checkboxes that anyone can check or uncheck in real time.
+- [2023 r/place Atlas](https://2023.place-atlas.stefanocoding.me/#//0/0/1) - Explore an annotated map of the artwork on Reddit’s 2023 collaborative pixel canvas.
 
 ## Systems
 
@@ -174,3 +185,5 @@
 - [Breaking Bad Element Finder](https://elementfinder.info/) - Make names and phrases out of periodic-table symbols.
 - [Hacker News or Satire?](https://www.hackernewssatire.com/) - Try to distinguish tech news from parody.
 - [VOLE.wtf](https://vole.wtf/) - A collection of oddities working toward a dafter internet.
+- [FakeUpdate.net](https://fakeupdate.net/) - Put a fake operating system update screen in your browser.
+- [Zoom Escaper](https://lav.io/projects/zoom-escaper/) - Sabotage your own call audio with echoes, barking, and other excuses to leave.
